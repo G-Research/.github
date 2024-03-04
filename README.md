@@ -58,6 +58,6 @@ For additional resources about G-Research, you can visit our official website an
 - [YouTube (OSS)](https://www.youtube.com/@oss-gr)
 - [Instagram](https://www.instagram.com/gresearchcareers/)
 - [GitHub](https://github.com/G-Research)
-- [Website](https://gresearch.com/)
+- [Website](https://www.gresearch.com/)
 - [Blog](https://www.gresearch.com/news/)
 - [Jobs](https://www.gresearch.com/vacancies/)
