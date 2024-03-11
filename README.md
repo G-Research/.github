@@ -64,6 +64,7 @@ For additional resources about G-Research, you can visit our official website an
 - [Twitter (OSS)](https://twitter.com/oss_gr)
 - [YouTube](https://www.youtube.com/@GResearchquantfinance)
 - [YouTube (OSS)](https://www.youtube.com/@oss-gr)
+- [Facebook](https://www.facebook.com/gresearchcareers/)
 - [Instagram](https://www.instagram.com/gresearchcareers/)
 - [GitHub](https://github.com/G-Research)
 - [Website](https://www.gresearch.com/)
