@@ -27,7 +27,7 @@ security, which include the following:
 In addition to these core projects, we also contribute to various open-source communities and foundations, fostering
 collaboration and innovation within the broader ecosystem.
 
-## 🙌 Join our community
+## 💙 Join our community
 
 We believe in the power of open-source and actively engage with the community through:
 
