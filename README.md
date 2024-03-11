@@ -59,14 +59,6 @@ Explore [our open positions](https://www.gresearch.com/vacancies/) and embark on
 
 For additional resources about G-Research, you can visit our official website and follow us on social media:
 
-- [LinkedIn](https://www.linkedin.com/company/g-research/)
-- [Twitter](https://twitter.com/GResearchJobs)
-- [Twitter (OSS)](https://twitter.com/oss_gr)
-- [YouTube](https://www.youtube.com/@GResearchquantfinance)
-- [YouTube (OSS)](https://www.youtube.com/@oss-gr)
-- [Facebook](https://www.facebook.com/gresearchcareers/)
-- [Instagram](https://www.instagram.com/gresearchcareers/)
-- [GitHub](https://github.com/G-Research)
-- [Website](https://www.gresearch.com/)
-- [Blog](https://www.gresearch.com/news/)
-- [Jobs](https://www.gresearch.com/vacancies/)
+[Twitter (OSS)](https://twitter.com/oss_gr) • [YouTube (OSS)](https://www.youtube.com/@oss-gr)
+
+[LinkedIn](https://www.linkedin.com/company/g-research/) • [Twitter](https://twitter.com/GResearchJobs) • [YouTube](https://www.youtube.com/@GResearchquantfinance) • [Facebook](https://www.facebook.com/gresearchcareers/) • [Instagram](https://www.instagram.com/gresearchcareers/) • [GitHub](https://github.com/G-Research) • [Website](https://www.gresearch.com/) • [Blog](https://www.gresearch.com/news/) • [Jobs](https://www.gresearch.com/vacancies/)
