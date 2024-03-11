@@ -1,3 +1,5 @@
+![G-Research Banner](./images/GitHub_banner.png "G-Research Banner")
+
 G-Research Open-Source Software (GR-OSS) is a dedicated team within G-Research, a leading quantitative finance research
 and
 technology firm.
