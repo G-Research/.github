@@ -1,4 +1,11 @@
-![G-Research Banner](./images/GitHub_banner.png "G-Research Banner")
+<div align="center">
+    <a href="https://github.com/G-Research">
+        <img src="./images/logo.svg" height="96px" alt="G-Research">
+    </a>
+  <h3 style="font-style: italic">We are a leading quantitative research and technology firm.</h3>
+</div>
+
+---
 
 G-Research Open-Source Software (GR-OSS) is a dedicated team within G-Research, a leading quantitative finance research
 and
