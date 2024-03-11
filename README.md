@@ -1,9 +1,8 @@
-<div align="center">
-    <a href="https://github.com/G-Research">
-        <img src="./images/logo.svg" height="96px" alt="G-Research">
-    </a>
-  <h3 style="font-style: italic">We are a leading quantitative research and technology firm.</h3>
-</div>
+<h3 align="center">
+  <a href="https://github.com/G-Research"><img src="./images/logo.svg" height="96px" alt="G-Research"></a>
+  <br>
+  <i>We are a leading quantitative research and technology firm.</i>
+</h3>
 
 ---
 
