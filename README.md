@@ -1,7 +1,7 @@
 <h3 align="center">
   <a href="https://github.com/G-Research"><img src="./images/logo.svg" height="96px" alt="G-Research"></a>
   <br>
-  <i>We are a leading quantitative research and technology firm.</i>
+  <span>CREATE TODAY. PREDICT TOMORROW.</span>
 </h3>
 
 ---
