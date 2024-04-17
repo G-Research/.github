@@ -41,7 +41,8 @@ We believe in the power of open-source and actively engage with the community th
 * Providing support and guidance to other developers.
 * Welcoming talented fellows from the [MLH Fellowship Program](https://fellowship.mlh.io/programs/open-source).
 
-We invite you to be a part of our vibrant community and contribute your expertise!
+We invite you to be a part of our vibrant open-source community!
+Explore our [repositories](https://github.com/G-Research), and start contributing today.
 Together, let's shape the future of open-source technology.
 
 ## ✍️ Explore our blog
