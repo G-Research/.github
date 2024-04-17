@@ -7,9 +7,7 @@
 ---
 
 G-Research Open-Source Software (GR-OSS) is a dedicated team within G-Research, a leading quantitative finance research
-and
-technology firm.
-We are passionate about contributing to the open-source community by developing, maintaining, and
+and technology firm. We are passionate about contributing to the open-source community by developing, maintaining, and
 collaborating on projects that advance the fields of data science, machine learning, and the infrastructure that
 supports them.
 
