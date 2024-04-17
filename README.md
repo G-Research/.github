@@ -24,9 +24,8 @@ security, which include the following:
   scalability.
 * **[Consul.NET](https://github.com/G-Research/consuldotnet):** A .NET client for Consul, a service discovery and
   configuration management tool.
-* **[Siembol](https://github.com/G-Research/siembol):** A real-time Security Information & Event Management tool based
-  on
-  big data technologies, providing a scalable, advanced security analytics framework.
+* **[ILGPU](https://github.com/m4rs-mt/ILGPU):** a JIT (just-in-time) compiler for high-performance GPU programs written
+  in .NET-based languages.
 * **[ParquetSharp](https://github.com/G-Research/ParquetSharp):** A .NET implementation of the Apache Parquet data
   format.
 
