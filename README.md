@@ -1,7 +1,8 @@
-<div align="center">
-  <a href="https://github.com/G-Research"><img src="https://github.com/G-Research/brand/raw/main/logo/GR-OSS/logo.svg" height="160px" alt="G-Research"></a>
-  <h3>CREATE TODAY. PREDICT TOMORROW.</h3>
-</div>
+<h3 align="center">
+<a href="https://github.com/G-Research"><img src="https://github.com/G-Research/brand/raw/main/logo/GR-OSS/logo.svg" height="160px" alt="G-Research"></a>
+
+<i>CREATE TODAY. PREDICT TOMORROW.</span>
+</h3>
 
 ---
 
