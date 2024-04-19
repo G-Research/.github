@@ -3,6 +3,23 @@
   <br>
   <i>CREATE TODAY. PREDICT TOMORROW.</i>
 </h3>
+<p align="center">
+  <a href="https://twitter.com/oss_gr"><img src="https://img.shields.io/badge/Follow-@oss__gr-white.svg?style=flat&amp;logo=x&amp;logoColor=white&amp;labelColor=black" alt="X formerly Twitter (G-Research OSS)"></a>
+  <a href="https://www.youtube.com/@oss-gr"><img src="https://img.shields.io/badge/Subscribe-@oss--gr-white.svg?style=flat&amp;logo=youtube&amp;logoColor=white&amp;labelColor=ff0000" alt="YouTube (G-Research OSS)"></a>
+  <a href="https://github.com/G-Research"><img src="https://img.shields.io/badge/GitHub-@G--Research-white.svg?style=flat&amp;logo=github&amp;logoColor=white&amp;labelColor=181717" alt="GitHub (G-Research)"></a>
+</p>
+<p align="center">
+  <a href="https://twitter.com/GResearchJobs"><img src="https://img.shields.io/badge/Follow-@GResearchJobs-white.svg?style=flat&amp;logo=x&amp;logoColor=white&amp;labelColor=black" alt="X formerly Twitter (G-Research Careers)"></a>
+  <a href="https://www.youtube.com/@GResearchquantfinance"><img src="https://img.shields.io/badge/Subscribe-G--Research-white.svg?style=flat&amp;logo=youtube&amp;logoColor=white&amp;labelColor=ff0000" alt="YouTube (G-Research)"></a>
+  <a href="https://www.facebook.com/gresearchcareers/"><img src="https://img.shields.io/badge/Facebook-G--Research%20Careers-white.svg?style=flat&amp;logo=facebook&amp;logoColor=white&amp;labelColor=0866ff" alt="Facebook (G-Research Careers)"></a>
+  <a href="https://www.instagram.com/gresearchcareers/"><img src="https://img.shields.io/badge/Instagram-G--Research-white.svg?style=flat&amp;logo=instagram&amp;logoColor=white&amp;labelColor=e4405f" alt="Instagram (G-Research)"></a>
+</p>
+<p align="center">
+  <a href="https://www.gresearch.com/"><img src="https://github.com/G-Research/brand/raw/main/badge/badge.svg" alt="Website"></a>
+  <a href="https://www.linkedin.com/company/g-research/"><img src="https://img.shields.io/badge/LinkedIn-@G--Research-white.svg?style=flat&amp;logo=linkedin&amp;logoColor=white&amp;labelColor=0a66c2" alt="LinkedIn (G-Research)"></a>
+  <a href="https://www.gresearch.com/news/"><img src="https://img.shields.io/badge/Blog-orange.svg?style=flat&amp;logo=rss&amp;logoColor=white" alt="Blog"></a>
+  <a href="https://www.gresearch.com/vacancies/"><img src="https://img.shields.io/badge/Apply%20Now!-00aae1.svg?style=flat&amp;logo=rocket&amp;logoColor=white" alt="Jobs"></a>
+</p>
 
 ---
 
@@ -57,20 +74,6 @@ Explore [our open positions](https://www.gresearch.com/vacancies/) and embark on
 
 For additional resources about G-Research, you can visit our official website and follow us on social media:
 
-[Twitter (OSS)](https://twitter.com/oss_gr) • [YouTube (OSS)](https://www.youtube.com/@oss-gr)
+[X formerly Twitter (G-Research OSS)](https://twitter.com/oss_gr) • [YouTube (G-Research OSS)](https://www.youtube.com/@oss-gr)
 
-[LinkedIn](https://www.linkedin.com/company/g-research/) • [Twitter](https://twitter.com/GResearchJobs) • [YouTube](https://www.youtube.com/@GResearchquantfinance) • [Facebook](https://www.facebook.com/gresearchcareers/) • [Instagram](https://www.instagram.com/gresearchcareers/) • [GitHub](https://github.com/G-Research) • [Website](https://www.gresearch.com/) • [Blog](https://www.gresearch.com/news/) • [Jobs](https://www.gresearch.com/vacancies/)
-
-[![X formerly Twitter (G-Research OSS)](https://img.shields.io/badge/Follow-@oss__gr-white.svg?style=flat&logo=x&logoColor=white&labelColor=black)](https://twitter.com/oss_gr)
-[![YouTube (G-Research OSS)](https://img.shields.io/badge/Subscribe-@oss--gr-white.svg?style=flat&logo=youtube&logoColor=white&labelColor=ff0000)](https://www.youtube.com/@oss-gr)
-[![GitHub (G-Research)](https://img.shields.io/badge/GitHub-@G--Research-white.svg?style=flat&logo=github&logoColor=white&labelColor=181717)](https://github.com/G-Research)
-
-[![X formerly Twitter (G-Research Careers)](https://img.shields.io/badge/Follow-@GResearchJobs-white.svg?style=flat&logo=x&logoColor=white&labelColor=black)](https://twitter.com/GResearchJobs)
-[![YouTube (G-Research)](https://img.shields.io/badge/Subscribe-G--Research-white.svg?style=flat&logo=youtube&logoColor=white&labelColor=ff0000)](https://www.youtube.com/@GResearchquantfinance)
-[![Facebook (G-Research Careers)](https://img.shields.io/badge/Facebook-G--Research%20Careers-white.svg?style=flat&logo=facebook&logoColor=white&labelColor=0866ff)](https://www.facebook.com/gresearchcareers/)
-[![Instagram (G-Research)](https://img.shields.io/badge/Instagram-G--Research-white.svg?style=flat&logo=instagram&logoColor=white&labelColor=e4405f)](https://www.instagram.com/gresearchcareers/)
-
-[![Website](https://github.com/G-Research/brand/raw/main/badge/badge.svg)](https://www.gresearch.com/)
-[![LinkedIn (G-Research)](https://img.shields.io/badge/LinkedIn-@G--Research-white.svg?style=flat&logo=linkedin&logoColor=white&labelColor=0a66c2)](https://www.linkedin.com/company/g-research/)
-[![Blog](https://img.shields.io/badge/Blog-orange.svg?style=flat&logo=rss&logoColor=white)](https://www.gresearch.com/news/)
-[![Jobs](https://img.shields.io/badge/Apply%20Now!-00aae1.svg?style=flat&logo=rocket&logoColor=white)](https://www.gresearch.com/vacancies/)
+[LinkedIn](https://www.linkedin.com/company/g-research/) • [X formerly Twitter](https://twitter.com/GResearchJobs) • [YouTube](https://www.youtube.com/@GResearchquantfinance) • [Facebook](https://www.facebook.com/gresearchcareers/) • [Instagram](https://www.instagram.com/gresearchcareers/) • [GitHub](https://github.com/G-Research) • [Website](https://www.gresearch.com/) • [Blog](https://www.gresearch.com/news/) • [Jobs](https://www.gresearch.com/vacancies/)
