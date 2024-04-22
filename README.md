@@ -1,5 +1,5 @@
 <h3 align="center">
-  <a href="https://github.com/G-Research"><img src="https://github.com/G-Research/brand/raw/main/logo/GR-OSS/logo.svg" height="160px" alt="G-Research"></a>
+  <a href="https://opensource.gresearch.com"><img src="https://github.com/G-Research/brand/raw/main/logo/GR-OSS/logo.svg" height="160px" alt="G-Research"></a>
   <br>
   <i>CREATE TODAY. PREDICT TOMORROW.</i>
 </h3>
@@ -74,6 +74,6 @@ Explore [our open positions](https://www.gresearch.com/vacancies/) and embark on
 
 For additional resources about G-Research, you can visit our official website and follow us on social media:
 
-[X formerly Twitter (G-Research OSS)](https://twitter.com/oss_gr) • [YouTube (G-Research OSS)](https://www.youtube.com/@oss-gr)
+[X formerly Twitter (G-Research OSS)](https://twitter.com/oss_gr) • [YouTube (G-Research OSS)](https://www.youtube.com/@oss-gr) • [Website (G-Research OSS)](https://opensource.gresearch.com)
 
 [LinkedIn](https://www.linkedin.com/company/g-research/) • [X formerly Twitter](https://twitter.com/GResearchJobs) • [YouTube](https://www.youtube.com/@GResearchquantfinance) • [Facebook](https://www.facebook.com/gresearchcareers/) • [Instagram](https://www.instagram.com/gresearchcareers/) • [GitHub](https://github.com/G-Research) • [Website](https://www.gresearch.com/) • [Blog](https://www.gresearch.com/news/) • [Jobs](https://www.gresearch.com/vacancies/)
