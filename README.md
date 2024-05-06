@@ -34,7 +34,7 @@ We are proud to maintain and contribute to a variety of open-source projects spa
 security, which include the following:
 
 * **[Armada](https://github.com/armadaproject/armada):** A multi-cluster batch queuing system for high-throughput
-  workloads on Kubernetes, designed primarily for data science and machine learning.
+  workloads on Kubernetes, designed primarily for data science and machine learning. Armada is part of the CNCF Sandbox.
 * **[FastTrackML](https://github.com/G-Research/fasttrackml):** An experiment tracking server focused on speed and
   scalability.
 * **[Consul.NET](https://github.com/G-Research/consuldotnet):** A .NET client for Consul, a service discovery and
