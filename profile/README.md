@@ -43,6 +43,8 @@ security, which include the following:
   in .NET-based languages.
 * **[ParquetSharp](https://github.com/G-Research/ParquetSharp):** A .NET implementation of the Apache Parquet data
   format.
+* **[OpenStack Ironic](https://opendev.org/openstack/ironic):** A service for managing and provisioning Bare Metal
+  servers.
 
 In addition to these core projects, we also contribute to various open-source communities and foundations, fostering
 collaboration and innovation within the broader ecosystem.
