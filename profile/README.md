@@ -75,6 +75,6 @@ Explore [our open positions](https://www.gresearch.com/vacancies/) and embark on
 
 For additional resources about G-Research, you can visit our official website and follow us on social media:
 
-[X formerly Twitter (G-Research OSS)](https://twitter.com/oss_gr) • [YouTube (G-Research OSS)](https://www.youtube.com/@oss-gr) • [Website (G-Research OSS)](https://opensource.gresearch.com)
+[GR-OSS OUT Podcast](https://podcast.gr-oss.io) • [X formerly Twitter (G-Research OSS)](https://twitter.com/oss_gr) • [YouTube (G-Research OSS)](https://www.youtube.com/@oss-gr) • [Website (G-Research OSS)](https://opensource.gresearch.com)
 
 [LinkedIn](https://www.linkedin.com/company/g-research/) • [X formerly Twitter](https://twitter.com/GResearchJobs) • [YouTube](https://www.youtube.com/@GResearchquantfinance) • [Facebook](https://www.facebook.com/gresearchcareers/) • [Instagram](https://www.instagram.com/gresearchcareers/) • [GitHub](https://github.com/G-Research) • [Website](https://www.gresearch.com/) • [Blog](https://www.gresearch.com/news/) • [Jobs](https://www.gresearch.com/vacancies/)
