@@ -47,7 +47,10 @@ security, which include the following:
   servers.
 
 In addition to these core projects, we also contribute to various open-source communities and foundations, fostering
-collaboration and innovation within the broader ecosystem.
+collaboration and innovation within the broader ecosystem. We are proud to be a member of
+the [Cloud Native Computing Foundation (CNCF)](https://www.cncf.io/),
+the [Linux Foundation (LF)](https://www.linuxfoundation.org/), and
+the [Fintech Open Source Foundation (FINOS)](https://www.finos.org/).
 
 ## 💙 Join our community
 
