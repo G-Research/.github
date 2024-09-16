@@ -44,9 +44,22 @@ security, which include the following:
   in .NET-based languages.
 * **[ParquetSharp](https://github.com/G-Research/ParquetSharp):** A .NET implementation of the Apache Parquet data
   format.
+* **[OpenStack Ironic](https://opendev.org/openstack/ironic):** A service for managing and provisioning Bare Metal
+  servers.
 
 In addition to these core projects, we also contribute to various open-source communities and foundations, fostering
-collaboration and innovation within the broader ecosystem.
+collaboration and innovation within the broader ecosystem. We are proud to be a member of the following foundations:
+
+* **[CNCF (Cloud Native Computing Foundation)](https://www.cncf.io/):** A home for open-source projects that enable
+  cloud-native computing.
+* **[LF (Linux Foundation)](https://www.linuxfoundation.org/):** A nonprofit organization that supports the creation
+  of sustainable open-source ecosystems. It has over 900 projects and 3 million developers.
+* **[FINOS (Fintech Open Source Foundation)](https://www.finos.org/):** A nonprofit foundation creating open source
+  solutions for financial services.
+* **[OpenSSF (Open Source Security Foundation)](https://openssf.org/):** A community working to improve the security of
+  open-source software.
+* **[OpenInfra (Open Infrastructure Foundation)](https://openinfra.dev/):** A non-profit organization that brings
+  together developers, operators, and organizations to build open source infrastructure software.
 
 ## 💙 Join our community
 
