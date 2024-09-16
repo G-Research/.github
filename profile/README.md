@@ -57,6 +57,8 @@ collaboration and innovation within the broader ecosystem. We are proud to be a 
   solutions for financial services.
 * **[OpenSSF (Open Source Security Foundation)](https://openssf.org/):** A community working to improve the security of
   open-source software.
+* **[OpenInfra (Open Infrastructure Foundation)](https://openinfra.dev/):** A non-profit organization that brings
+  together developers, operators, and organizations to build open source infrastructure software.
 
 ## 💙 Join our community
 
