@@ -4,6 +4,7 @@
   <i>CREATE TODAY. PREDICT TOMORROW.</i>
 </h3>
 <p align="center">
+  <a href="https://podcast.gr-oss.io/"><img src="https://img.shields.io/badge/GR--OSS_OUT_Podcast-9933CC.svg?style=flat&amp;logo=applepodcasts&amp;logoColor=white" alt="G-Research Open Source Software Outreach podcast"></a>
   <a href="https://twitter.com/oss_gr"><img src="https://img.shields.io/badge/Follow-@oss__gr-white.svg?style=flat&amp;logo=x&amp;logoColor=white&amp;labelColor=black" alt="X formerly Twitter (G-Research OSS)"></a>
   <a href="https://www.youtube.com/@oss-gr"><img src="https://img.shields.io/badge/Subscribe-@oss--gr-white.svg?style=flat&amp;logo=youtube&amp;logoColor=white&amp;labelColor=ff0000" alt="YouTube (G-Research OSS)"></a>
   <a href="https://github.com/G-Research"><img src="https://img.shields.io/badge/GitHub-@G--Research-white.svg?style=flat&amp;logo=github&amp;logoColor=white&amp;labelColor=181717" alt="GitHub (G-Research)"></a>
@@ -74,6 +75,6 @@ Explore [our open positions](https://www.gresearch.com/vacancies/) and embark on
 
 For additional resources about G-Research, you can visit our official website and follow us on social media:
 
-[X formerly Twitter (G-Research OSS)](https://twitter.com/oss_gr) • [YouTube (G-Research OSS)](https://www.youtube.com/@oss-gr) • [Website (G-Research OSS)](https://opensource.gresearch.com)
+[GR-OSS OUT Podcast](https://podcast.gr-oss.io) • [X formerly Twitter (G-Research OSS)](https://twitter.com/oss_gr) • [YouTube (G-Research OSS)](https://www.youtube.com/@oss-gr) • [Website (G-Research OSS)](https://opensource.gresearch.com)
 
 [LinkedIn](https://www.linkedin.com/company/g-research/) • [X formerly Twitter](https://twitter.com/GResearchJobs) • [YouTube](https://www.youtube.com/@GResearchquantfinance) • [Facebook](https://www.facebook.com/gresearchcareers/) • [Instagram](https://www.instagram.com/gresearchcareers/) • [GitHub](https://github.com/G-Research) • [Website](https://www.gresearch.com/) • [Blog](https://www.gresearch.com/news/) • [Jobs](https://www.gresearch.com/vacancies/)
