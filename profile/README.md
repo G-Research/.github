@@ -1,7 +1,7 @@
 <h3 align="center">
   <a href="https://opensource.gresearch.com"><img src="https://github.com/G-Research/brand/raw/main/logo/GR-OSS/logo.svg" height="160px" alt="G-Research"></a>
   <br>
-  <i>CREATE TODAY. PREDICT TOMORROW.</i>
+  <i>Curious minds. Complex problems. Enduring success.</i>
 </h3>
 <p align="center">
   <a href="https://podcast.gr-oss.io/"><img src="https://img.shields.io/badge/GR--OSS_OUT_Podcast-9933CC.svg?style=flat&amp;logo=applepodcasts&amp;logoColor=white" alt="G-Research Open Source Software Outreach podcast"></a>
