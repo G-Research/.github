@@ -1,5 +1,10 @@
 <h3 align="center">
-  <a href="https://opensource.gresearch.com"><img src="https://github.com/G-Research/brand/raw/main/logo/GR-OSS/logo.svg" height="160px" alt="G-Research"></a>
+  <a href="https://opensource.gresearch.com">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/G-Research/brand/raw/main/logo/GR-OSS/logo-dark-bg.svg">
+      <img src="https://github.com/G-Research/brand/raw/main/logo/GR-OSS/logo-light-bg.svg" height="160px" alt="G-Research">
+    </picture>
+  </a>
   <br>
   <i>Curious minds. Complex problems. Enduring success.</i>
 </h3>
