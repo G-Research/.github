@@ -6,6 +6,7 @@
     </picture>
   </a>
   <br>
+  <br>
   <i>Curious minds. Complex problems. Enduring success.</i>
 </h3>
 <p align="center">
