@@ -1,0 +1,6 @@
+{
+    "name": "zizmor (GitHub Actions static analysis)",
+    "description": "Static analysis of your GitHub Actions workflows with zizmor. Findings are uploaded as SARIF to code scanning.",
+    "iconName": "octicon shield-check",
+    "categories": ["security"]
+}
